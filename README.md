@@ -34,7 +34,7 @@ yarn start
 
 ```sh
 docker build -t browseros .
-docker run -dp 3000:3000 --rm --name browseros browseros
+docker run -dp 4864:3000 --rm --name browseros browseros
 ```
 
 ### System
