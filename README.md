@@ -6,8 +6,8 @@
 
 ```
 mkdir browserOS
-cd broweserOS
-git clone git@github.com:charlpcronje/desktop.cronje.me.git .
+cd browserOS
+git clone git@github.com:charlpcronje/browser.os.git .
 ```
 
 ## Install Dependencies
